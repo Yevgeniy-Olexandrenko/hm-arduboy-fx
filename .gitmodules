@@ -1,0 +1,3 @@
+[submodule "software/utilities"]
+	path = software/utilities
+	url = https://github.com/MrBlinky/Arduboy-Python-Utilities.git
