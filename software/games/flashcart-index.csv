@@ -3,6 +3,7 @@ List;Title;Title screen;Hex file;Data file;Save file;Version;Developer;Info;Like
 1;;team-arg\.logo.png;;;;;;;
 2;;ppot\.logo.png;;;;;;;
 3;;obono\.logo.png;;;;;;;
+4;;neo-retro\.logo.png;;;;;;;
 1;;team-arg\Arduventure.png;team-arg\Arduventure.hex;;;;;;
 1;;team-arg\Begemmed.png;team-arg\Begemmed.hex;;;;;;
 1;;team-arg\BlobAttack.png;team-arg\BlobAttack.hex;;;;;;
@@ -61,3 +62,10 @@ List;Title;Title screen;Hex file;Data file;Save file;Version;Developer;Info;Like
 3;;obono\reversi.png;obono\reversi_v0.11.hex;;;;;;
 3;;obono\samegame.png;obono\samegame_v0.10.hex;;;;;;
 3;;obono\stairssweep.png;obono\stairssweep_v0.10.hex;;;;;;
+4;;neo-retro\Kooky.png;neo-retro\Kooky.hex;;;;;;
+4;;neo-retro\LeannaTheLion.png;neo-retro\LeannaTheLion.hex;;;;;;
+4;;neo-retro\OmegaHorizon.png;neo-retro\OmegaHorizon.hex;;;;;;
+4;;neo-retro\RayneTheRogue.png;neo-retro\RayneTheRogue.hex;;;;;;
+4;;neo-retro\RayneTheRoguePartII.png;neo-retro\RayneTheRoguePartII.hex;;;;;;
+4;;neo-retro\Siege.png;neo-retro\Siege.hex;;;;;;
+4;;neo-retro\Yatzy.png;neo-retro\Yatzy.hex;;;;;;
