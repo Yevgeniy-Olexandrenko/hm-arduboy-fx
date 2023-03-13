@@ -4,6 +4,7 @@ List;Title;Title screen;Hex file;Data file;Save file;Version;Developer;Info;Like
 2;;ppot\.logo.png;;;;;;;
 3;;obono\.logo.png;;;;;;;
 4;;neo-retro\.logo.png;;;;;;;
+5;;crait\.logo.png;;;;;;;
 1;;team-arg\Arduventure.png;team-arg\Arduventure.hex;;;;;;
 1;;team-arg\Begemmed.png;team-arg\Begemmed.hex;;;;;;
 1;;team-arg\BlobAttack.png;team-arg\BlobAttack.hex;;;;;;
@@ -69,3 +70,11 @@ List;Title;Title screen;Hex file;Data file;Save file;Version;Developer;Info;Like
 4;;neo-retro\RayneTheRoguePartII.png;neo-retro\RayneTheRoguePartII.hex;;;;;;
 4;;neo-retro\Siege.png;neo-retro\Siege.hex;;;;;;
 4;;neo-retro\Yatzy.png;neo-retro\Yatzy.hex;;;;;;
+5;;crait\ChickenLauncher.png;crait\ChickenLauncher.hex;;;;;;
+5;;crait\CircuitDude.png;crait\CircuitDude.hex;;;;;;
+5;;crait\FestiveFight.png;crait\FestiveFight.hex;;;;;;
+5;;crait\InsaneSkulls.png;crait\InsaneSkulls.hex;;;;;;
+5;;crait\MidnightWild.png;crait\MidnightWild.hex;;;;;;
+5;;crait\RooRun.png;crait\RooRun.hex;;;;;;
+5;;crait\SuitShooter.png;crait\SuitShooter.hex;;;;;;
+5;;crait\TrainDodge.png;crait\TrainDodge.hex;;;;;;
